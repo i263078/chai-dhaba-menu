@@ -16,4 +16,4 @@ Chai Corner - A 3-page website serving hot chai and fresh snacks.
 - Gemini
 
 ## Live Website Link
-https://YOUR-GITHUB-USERNAME.github.io/chai-dhaba-menu/
+https://i263078.github.io/chai-dhaba-menu/
