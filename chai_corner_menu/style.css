@@ -1,9 +1,8 @@
 /*
  Name: Mansoor Ashiq
-  Roll Number: 26i-3078
-  Section: B
+ Roll Number: 26i-3078
+ Section: B
 */
-
 
 body {
     background-color: linen;
@@ -13,14 +12,32 @@ body {
     padding: 20px;
 }
 
-
-h1 {
+h1, h2 {
     color: chocolate;
 }
 
 h2 {
-    color: chocolate;
     margin-top: 30px;
+}
+
+/* New Navigation Styles */
+nav {
+    background-color: tan;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+nav a {
+    color: maroon;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0 15px;
+}
+
+nav a:hover {
+    color: orangered;
 }
 
 img {
@@ -45,7 +62,6 @@ td {
     padding: 8px;
     text-align: center;
 }
-
 
 button {
     background-color: orangered;
